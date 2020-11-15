@@ -27,7 +27,7 @@ const Profile = () => {
             <h3>My Profile</h3>
             <img src={me} alt="" className={classes.photo} />
             <Typography variant="h4" color="secondary">
-                Masfikul Alam
+                Mohammad Shaheduzzaman
             </Typography>
             <p>Email : ms.shahedbd@gmail.com</p>
             <p>Facebook : <a href="https://fb.com/MohammadShaheduzzamanShahed">Mohammad.Shahed</a></p>
